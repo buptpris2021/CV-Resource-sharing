@@ -13,7 +13,13 @@
 ****
 
 # 板块内容
-### 1.研究领域和相关论文
+### 1.研究领域和相关论文  
+*1.1目标检测*  
+      * Learning RoI Transformer for Oriented Object Detection in Aerial Images  
+       (面向航拍图像目标检测的学习型ROI变换)  
+      * R3Det: Refined Single-Stage Detector with Feature Refinement for Rotating Object  
+      （R3Det：旋转目标特征细化的精细化单级检测器）
+      
 
 ****
 
